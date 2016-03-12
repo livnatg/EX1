@@ -23,4 +23,5 @@ Directions
 * Meanwhile, for icing, combine milk and flour in a saucepan; cook until thick. Cover and refrigerate.
 	In a bowl, beat butter, shortening, sugar and vanilla until creamy. Add chilled milk mixture and beat 10 minutes. Frost cooled cake. 
 
-<img src="EX1/cake.jpg"/>
+<img src="http://cdn1.tmbi.com/TOH/Images/Photos/37/300x300/exps1693_OMRR2777383C08_17_3b.jpg"/>
+
